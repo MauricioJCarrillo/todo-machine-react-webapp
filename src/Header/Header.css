@@ -1,0 +1,9 @@
+.title {
+    padding: 10px;
+    margin: 15px 0 0;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(17, 49, 49);
+    border-bottom: 3px solid rgb(17, 49, 49);
+}

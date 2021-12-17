@@ -1,0 +1,15 @@
+.footer {
+    padding: 10px;
+    margin: 15px 0 0;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(17, 49, 49);;
+    border-top: 3px solid rgb(17, 49, 49);
+}
+
+a {
+    text-decoration: none;
+    cursor: pointer;
+    color: rgb(17, 49, 49);;
+}
