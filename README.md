@@ -4,7 +4,7 @@ This project is a "ToDo Machine App" using React.js.
 
 ## GitHub Pages:
 
-[Practice - ToDo Machine App](https://mauriciojcarrillo.github.io/15.curso_de_instroduccion_a_react_platzi/)
+[Practice - ToDo Machine App](https://mauriciojcarrillo.github.io/15.curso_de_introduccion_a_react_platzi/)
 
 ## Technologies and concepts:
 
