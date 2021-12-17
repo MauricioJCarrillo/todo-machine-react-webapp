@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/15.curso_de_introduccion_a_react_platzi/static/css/main.a913c5f7.css",
+    "main.js": "/15.curso_de_introduccion_a_react_platzi/static/js/main.db6cb9ce.js",
+    "index.html": "/15.curso_de_introduccion_a_react_platzi/index.html",
+    "main.a913c5f7.css.map": "/15.curso_de_introduccion_a_react_platzi/static/css/main.a913c5f7.css.map",
+    "main.db6cb9ce.js.map": "/15.curso_de_introduccion_a_react_platzi/static/js/main.db6cb9ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a913c5f7.css",
+    "static/js/main.db6cb9ce.js"
+  ]
+}
