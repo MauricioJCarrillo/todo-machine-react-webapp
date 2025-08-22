@@ -4,7 +4,7 @@ This project is a **ToDo Machine webapp** using React.js 17. If you want to crea
 
 ## GitHub Pages
 
-[ToDo Machine webapp](https://mauriciojcarrillo.github.io/todo-machine-webapp)
+[ToDo Machine webapp](https://mauriciojcarrillo.github.io/todo-machine-react-webapp)
 
 ## Technologies and concepts
 

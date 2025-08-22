@@ -40,5 +40,5 @@
   "devDependencies": {
     "gh-pages": "^3.2.3"
   },
-  "homepage": "https://mauriciojcarrillo.github.io/todo-machine-webapp"
+  "homepage": "https://mauriciojcarrillo.github.io/todo-machine-react-webapp"
 }
